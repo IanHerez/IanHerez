@@ -20,6 +20,8 @@ Estudiante de desarrollo enfocado en **blockchain / Web3** y **aplicaciones móv
 Me muevo entre **smart contracts** (Solidity, Stellar), **dApps** en TypeScript y apps móviles.
 Aprendo construyendo: hackathons, ideathons y proyectos reales.
 
+- 🏆 **Ganador de Base Batch LatAm 2025**
+- 🎓 Certificado **CBCA** (Cardano Blockchain Certified Associate)
 - 🔭 Trabajando en proyectos Web3 sobre **Stellar** y **Base**
 - 🌱 Aprendiendo **Solidity avanzado**, **Soroban** y arquitectura de dApps
 - ⚡ Me gusta el punto donde se cruzan blockchain, mobile y buen diseño
@@ -31,6 +33,8 @@ Developer student focused on **blockchain / Web3** and **mobile applications**.
 I work across **smart contracts** (Solidity, Stellar), TypeScript **dApps** and mobile apps.
 I learn by building: hackathons, ideathons and real projects.
 
+- 🏆 **Winner of Base Batch LatAm 2025**
+- 🎓 **CBCA** certified (Cardano Blockchain Certified Associate)
 - 🔭 Currently building Web3 projects on **Stellar** and **Base**
 - 🌱 Learning **advanced Solidity**, **Soroban** and dApp architecture
 - ⚡ I enjoy the intersection of blockchain, mobile and good design
@@ -47,6 +51,7 @@ I learn by building: hackathons, ideathons and real projects.
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Stellar](https://img.shields.io/badge/Stellar-000000?style=for-the-badge&logo=stellar&logoColor=white)
+![Cardano](https://img.shields.io/badge/Cardano-0133AD?style=for-the-badge&logo=cardano&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
 
@@ -71,6 +76,20 @@ I learn by building: hackathons, ideathons and real projects.
 
 ---
 
+## 🎓 Certificaciones / Certifications
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/CBCA-Cardano_Blockchain_Certified_Associate-0133AD?style=for-the-badge&logo=cardano&logoColor=white" alt="CBCA - Cardano Blockchain Certified Associate" />
+
+</div>
+
+> **CBCA — Cardano Blockchain Certified Associate**
+> 🇪🇸 Certificación oficial de la Cardano Foundation que acredita conocimientos sobre la arquitectura de Cardano, el modelo eUTXO, Ouroboros (Proof of Stake), gobernanza y el ecosistema blockchain.
+> 🇬🇧 Official Cardano Foundation certification covering Cardano's architecture, the eUTXO model, Ouroboros (Proof of Stake), governance and the broader blockchain ecosystem.
+
+---
+
 ## 🚀 Proyectos destacados / Featured Projects
 
 | Proyecto | Descripción / Description | Stack |
@@ -80,6 +99,32 @@ I learn by building: hackathons, ideathons and real projects.
 | [**La-Kiniela-MobileF**](https://github.com/IanHerez/La-Kiniela-MobileF) | App móvil de quinielas · Mobile predictions app | `TypeScript` `Mobile` |
 | [**TestHardHat**](https://github.com/IanHerez/TestHardHat) | Experimentos con contratos inteligentes y testing · Smart contract experiments and testing | `Solidity` `Hardhat` |
 | [**API-MARVEL**](https://github.com/IanHerez/API-MARVEL) | Consumo de la API de Marvel · Marvel API consumption | `JavaScript` |
+
+---
+
+## 🖼️ Mi colección NFT / My NFT Collection
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="220">
+        <a href="https://opensea.io/item/base/0x98d9d7b9556ebc8be8f10cd5b7148e9c8adf744e/476">
+          <img src="assets/nfts/base-batch-latam-winner.webp" width="180" alt="Clavely, Winner at Base Batch LatAm" /><br />
+          <b>🏆 Winner at Base Batch LatAm</b><br />
+          <sub>Base Batches 2025 · Base</sub>
+        </a>
+      </td>
+      <td align="center" width="220">
+        <a href="https://opensea.io/item/ape_chain/0x75785fc84d68c9848fec6ed602118c129db20367/698633">
+          <img src="assets/nfts/arbinaut-698633.avif" width="180" alt="Arbinaut #698633" /><br />
+          <b>🚀 Arbinaut #698633</b><br />
+          <sub>Arbinaut · ApeChain</sub>
+        </a>
+      </td>
+    </tr>
+  </table>
+
+</div>
 
 ---
 
